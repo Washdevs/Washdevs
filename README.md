@@ -14,12 +14,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=washingtonCDev.washingtonCDev" />
-</div>
-
-###
-
 <h1 align="center">olá 👋</h1>
 
 ###
