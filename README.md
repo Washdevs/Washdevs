@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
 ###
@@ -16,24 +16,26 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&" />
 </div>
 
 ###
 
-<h1 align="center">olá  👋</h1>
+<h1 align="center">olá 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  Quem sou eu</h3>
+<h3 align="left">👩‍💻 Quem sou eu</h3>
 
 ###
 
-<p align="left">Sou de Aparecida de Goiânia-BR<br>
-<br>- 🔭 Atualmente trabalho com suporte de TI, mas estou migrando para o desenvolvimento.
-<br>- 📚 Estudando React.js e construindo projetos práticos para aprender.
-<br>- ⚡ Também me interesso por DevOps, APIs e automações.
-<br>- 💼 Buscando oportunidades na área de desenvolvimento front-end ou full stack.</p>
+<p align="left">
+  Sou de Aparecida de Goiânia-BR<br><br>
+  - 🔭 Atualmente trabalho com suporte de TI, mas estou migrando para o desenvolvimento.<br>
+  - 📚 Estudando React.js e construindo projetos práticos para aprender.<br>
+  - ⚡ Também me interesso por DevOps, APIs e automações.<br>
+  - 💼 Buscando oportunidades na área de desenvolvimento front-end ou full stack.
+</p>
 
 ###
 
@@ -42,27 +44,27 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="azure logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" height="40" alt="azure logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo" />
 </div>
 
 ###
 
-<h3 align="left">🔥   Atividade no GitHub:</h3>
+<h3 align="left">🔥 Atividade no GitHub:</h3>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
 ###
