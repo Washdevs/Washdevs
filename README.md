@@ -4,9 +4,10 @@
 
 ###
 
-<div align="center"><a href="https://www.linkedin.com/in/washington-s-campos-/" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="30" alt="linkedin logo"  /> </a>
-  <img width="10" />
+<div align="center">
+<a href="https://www.linkedin.com/in/washington-s-campos-/" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="30" alt="linkedin logo"  /> 
+  </a>
   <a href="https://www.instagram.com/washingtoncmps/" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="30" alt="instagram logo"  />  </a>
 </div>
