@@ -15,7 +15,9 @@
 
 ###
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Washdevs.Washdevs" />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=washingtonCDev.washingtonCDev" />
+</div>
 
 ###
 
