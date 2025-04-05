@@ -5,9 +5,15 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=Instagram&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram logo"  />
+  <a href="https://www.linkedin.com/in/seuusuario" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+  </a>
+  <a href="https://www.youtube.com/@seucanal" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+  </a>
+  <a href="https://www.instagram.com/seuusuario" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=Instagram&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" />
+  </a>
 </div>
 
 ###
@@ -22,15 +28,19 @@
 
 ###
 
-<h3 align="left">👩‍💻  Sobre mim</h3>
+<h3 align="left">👩‍💻  Quem sou eu</h3>
 
 ###
 
-<p align="left">Sou ... de ....<br><br>- 🔭 Estou trabalhando como ...<br>- 📚 Atualmente estou aprendendo ...<br>- ⚡ No meu tempo livre eu ...</p>
+<p align="left">Sou de Aparecida de Goiânia-BR<br>
+<br>- 🔭 Atualmente trabalho com suporte de TI, mas estou migrando para o desenvolvimento.
+<br>- 📚 Estudando React.js e construindo projetos práticos para aprender.
+<br>- ⚡ Também me interesso por DevOps, APIs e automações.
+<br>- 💼 Buscando oportunidades na área de desenvolvimento front-end ou full stack.</p>
 
 ###
 
-<h3 align="left">🛠 Linguagens e ferramentas</h3>
+<h3 align="left">🛠 Tecnologias que uso</h3>
 
 ###
 
@@ -50,7 +60,7 @@
 
 ###
 
-<h3 align="left">🔥   Meu Status :</h3>
+<h3 align="left">🔥   Atividade no GitHub:</h3>
 
 ###
 
