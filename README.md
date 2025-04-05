@@ -5,10 +5,10 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/washington-s-campos/" target="_blank">
+  <a href="https://www.linkedin.com/in/washington-s-campos/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
   </a>
-  <a href="https://www.instagram.com/washingtoncmps/" target="_blank">
+  <a href="https://www.instagram.com/washingtoncmps/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" />
   </a>
 </div>
