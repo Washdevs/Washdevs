@@ -3,6 +3,8 @@
 
 <h1 align="center">Olá 👋</h1>
 
+---
+
 ### 👨‍💻 Quem sou eu
 
 <p>
@@ -12,6 +14,8 @@
   - ⚡ Interesses: DevOps, APIs, automações.<br>
   - 💼 Buscando oportunidades como front-end ou full stack.
 </p>
+
+---
 
 ### 🌐 Redes Sociais
 
@@ -26,6 +30,8 @@
     <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&style=for-the-badge" height="30" />
   </a>
 </div>
+
+---
 
 ### 🛠 Tecnologias que uso
 
@@ -47,19 +53,23 @@
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" />
 </div>
 
+---
+
 ### 📊 Atividades no GitHub
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=washingtonCDev&locale=pt_BR&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" />
+  <img src="https://streak-stats.demolab.com?user=Washdevs&locale=pt_BR&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=washingtonCDev&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=washingtonCDev&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Washdevs&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Washdevs&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" />
 </div>
+
+---
 
 ### 🐍 Snake animation
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/washingtonCDev/washingtonCDev/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Washdevs/Washdevs/output/snake.svg" alt="Snake animation" />
 </div>
