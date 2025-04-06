@@ -58,10 +58,6 @@
 ### 📊 Atividades no GitHub
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Washdevs&locale=pt_BR&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Washdevs&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Washdevs&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" />
 </div>
