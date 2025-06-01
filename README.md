@@ -64,7 +64,7 @@
 
 ---
 
-### 🐍 Snake animation
+### 🐍 Fluxo de Commits
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Washdevs/Washdevs/output/snake.svg" alt="Snake animation" />
