@@ -1,11 +1,11 @@
 <!-- GIF alinhado à esquerda -->
 <img align="left" height="150" src="https://i.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
-<h1 align="center">Olá 👋</h1>
+<h1 align="center">Hello 👋</h1>
 
 ---
 
-### 👨‍💻 Quem sou eu
+### 👨‍💻 Who am I
 
 <p>
 I'm from Goiânia, Goiás - BR<br><br>
@@ -33,7 +33,7 @@ I'm from Goiânia, Goiás - BR<br><br>
 
 ---
 
-### 🛠 Tecnologias que uso
+### 🛠 Technologies I use
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
@@ -57,7 +57,7 @@ I'm from Goiânia, Goiás - BR<br><br>
 
 ---
 
-### 📊 Atividades no GitHub
+### 📊 Activities on GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Washdevs&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" />
@@ -66,7 +66,7 @@ I'm from Goiânia, Goiás - BR<br><br>
 
 ---
 
-### 🐍 Fluxo de Commits
+### 🐍 Commit Flow
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Washdevs/Washdevs/output/snake.svg" alt="Snake animation" />
