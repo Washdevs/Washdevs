@@ -8,11 +8,11 @@
 ### 👨‍💻 Quem sou eu
 
 <p>
-  Sou de Aparecida de Goiânia - BR<br><br>
-  - 🔭 Atualmente trabalho com suporte de TI, migrando para o desenvolvimento.<br>
-  - 📚 Estudando React.js e construindo projetos práticos.<br>
-  - ⚡ Interesses: DevOps, APIs, automações.<br>
-  - 💼 Buscando oportunidades como front-end ou full stack.
+I'm from Goiânia, Goiás - BR<br><br>
+- 🔭 Software Developer and Data Analyst<br>
+- 📚 Learner Power BI and Python<br>
+- ⚡ Interests: Web Development, APIs, Automation, Data Science, Data Engineering<br>
+- 🧠 Conhecimentos: Power BI, Metabase, C, C#, Python, JS, React <br>
 </p>
 
 ---
@@ -51,6 +51,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="40" />
 </div>
 
 ---
