@@ -52,7 +52,7 @@ I'm from Goiânia, Goiás - BR<br><br>
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" />
 </div>
 
 ---
