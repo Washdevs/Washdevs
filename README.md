@@ -8,7 +8,7 @@
 ### 👨‍💻 Sobre Mim
 
 <p>
-I'm from Goiânia, Goiás - BR<br><br>
+Sou de Goiânia, Goiás - BR<br><br>
 - 🔭 Engenheiro de Dados e Desenvolvedor<br>
 - 📚 Estudante de Pós Graduação pela DSA Academy<br>
 - ⚡  Interesse: APIs, Automação, Sciencia de Dados, Engenharia de Dados, Airflow<br>
