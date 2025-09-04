@@ -1,7 +1,7 @@
 <!-- GIF alinhado à esquerda -->
 <img align="left" height="150" src="https://i.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
-<h1 align="center">Hello 👋</h1>
+<h1 align="center">Opa 👋</h1>
 
 ---
 
@@ -9,10 +9,10 @@
 
 <p>
 I'm from Goiânia, Goiás - BR<br><br>
-- 🔭 Software Developer and Data Analyst<br>
-- 📚 Learner Power BI and Python<br>
-- ⚡ Interests: Web Development, APIs, Automation, Data Science, Data Engineering<br>
-- 🧠 Conhecimentos: Power BI, Metabase, C, C#, Python, JS, React <br>
+- 🔭 Engenheiro de Dados e Desenvolvedor<br>
+- 📚 Estudante de Pós Graduação pela DSA Academy<br>
+- ⚡  Interesse: APIs, Automação, Sciencia de Dados, Engenharia de Dados, Airflow<br>
+- 🧠 Conhecimentos: Power BI, Metabase, Python, C, C#, Airflow, Pandas, Streamlit <br>
 </p>
 
 ---
@@ -33,7 +33,7 @@ I'm from Goiânia, Goiás - BR<br><br>
 
 ---
 
-### 🛠 Technologies I use
+### 🛠 Tecnologias que Uso
 
 <div align="left">
   <!-- Linguagens de Programação -->
@@ -78,7 +78,7 @@ I'm from Goiânia, Goiás - BR<br><br>
 
 ---
 
-### 📊 Activities on GitHub
+### 📊 Actividade no GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Washdevs&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" />
@@ -87,7 +87,7 @@ I'm from Goiânia, Goiás - BR<br><br>
 
 ---
 
-### 🐍 Commit Flow
+### 🐍 Fluxo de Commit
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Washdevs/Washdevs/output/snake.svg" alt="Snake animation" />
