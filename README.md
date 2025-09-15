@@ -90,5 +90,5 @@ Sou de Goiânia, Goiás - BR<br><br>
 ### 🐍 Fluxo de Commit
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Washdevs/Washdevs/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Washdevs/Washdevs/output/snake.svg" alt="Snake animation"/>
 </div>
