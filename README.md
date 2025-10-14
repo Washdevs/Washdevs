@@ -60,7 +60,7 @@ Goiânia, Goiás - BR<br><br>
   <img width="12" />
   <img src="https://img.icons8.com/color/48/sap.png" height="40" title="Sybase" />
   <img width="12" />
-  <img src="https://www.firebirdsql.org/file/about/ds-firebird-logo-16.png" height="40" title="Firebird" />
+  <img src="https://www.firebirdsql.org/file/about/ds-firebird-logo-32.png" height="40" title="Firebird" />
   <img width="12" />
   <img src="https://scontent.fgyn11-1.fna.fbcdn.net/v/t39.30808-1/330814595_728304892347257_6831114232797115666_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=103&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=D8G48KBHjK0Q7kNvwF33ytj&_nc_oc=AdkyqifADcDkDGW3NtPUox1H2zWJDx4R0M42hYvRwz5uL5n5ldE6KN5bFU_9qij_R5jXXPyNDPxXPs1tBKjF3o9L&_nc_zt=24&_nc_ht=scontent.fgyn11-1.fna&_nc_gid=bpzJna9RnDPdO3aSxD4zEA&oh=00_AfctwEEGEXoRXuMYUl23uv91kTPnYHShelM_Ce6-U3OtjQ&oe=68F3688F" height="40" title="InterSystems IRIS" />
   <img width="12" />
