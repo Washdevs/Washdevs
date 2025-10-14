@@ -36,44 +36,41 @@ Sou de Goiânia, Goiás - BR<br><br>
 ### 🛠 Tecnologias que Uso
 
 <div align="left">
-  <!-- Linguagens de Programação -->
+
+  <!-- Linguagens -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="40" />
-  <!-- Frameworks / Bibliotecas -->
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" height="40" />
 
   <!-- Cloud / DevOps -->
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" title="Azure" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" title="AWS" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="40" />
-  <!-- Banco de Dados -->
+  <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" height="40" title="Apache Airflow" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="Docker" />
+
+  <!-- Bancos -->
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" title="Oracle" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" height="40" />
-  <!-- Ferramentas / UI Design -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" />
+  <img src="https://img.icons8.com/color/48/sap.png" height="40" title="Sybase" />
+  <img width="12" />
+  <img src="https://www.firebirdsql.org/file/about/ds-firebird-logo-16.png" height="40" title="Firebird" />
+  <img width="12" />
+  <img src="https://scontent.fgyn11-1.fna.fbcdn.net/v/t39.30808-1/330814595_728304892347257_6831114232797115666_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=103&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=D8G48KBHjK0Q7kNvwF33ytj&_nc_oc=AdkyqifADcDkDGW3NtPUox1H2zWJDx4R0M42hYvRwz5uL5n5ldE6KN5bFU_9qij_R5jXXPyNDPxXPs1tBKjF3o9L&_nc_zt=24&_nc_ht=scontent.fgyn11-1.fna&_nc_gid=bpzJna9RnDPdO3aSxD4zEA&oh=00_AfctwEEGEXoRXuMYUl23uv91kTPnYHShelM_Ce6-U3OtjQ&oe=68F3688F" height="40" title="InterSystems IRIS" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" height="40" title="DBeaver" />
+
   <!-- API / Testes -->
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" title="Postman" />
 </div>
 
 ---
