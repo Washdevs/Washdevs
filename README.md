@@ -8,11 +8,11 @@
 ### 👨‍💻 Sobre Mim
 
 <p>
-Sou de Goiânia, Goiás - BR<br><br>
-- 🔭 Engenheiro de Dados e Desenvolvedor<br>
-- 📚 Estudante de Pós Graduação pela DSA Academy<br>
-- ⚡  Interesse: APIs, Automação, Sciencia de Dados, Engenharia de Dados, Airflow<br>
-- 🧠 Conhecimentos: Power BI, Metabase, Python, C, C#, Airflow, Pandas, Streamlit <br>
+Goiânia, Goiás - BR<br><br>
+- 🔭 Engenheiro de Dados<br>
+- 📚 Pós Graduação pela DSA Academy - Engenharia de Dados<br>
+- ⚡ APIs, Automação, Sciencia de Dados, Engenharia de Dados, ETL, Administração de Data Warehouse, Governança<br>
+- 🧠 C, C#, Power BI, Metabase, Python, Airflow, Pandas, Streamlit<br>
 </p>
 
 ---
