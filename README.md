@@ -26,8 +26,6 @@ Goiânia, Goiás - BR<br><br>
   <a href="https://www.instagram.com/washingtoncmps/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="30" />
   </a>
-  <a href="https://discord.com/users/609940181943844889" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&style=for-the-badge" height="30" />
   </a>
 </div>
 
