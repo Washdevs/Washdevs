@@ -1,89 +1,127 @@
-<!-- GIF alinhado à esquerda -->
-<img align="left" height="150" src="https://i.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+<!-- HEADER ANIMADO (capsule-render) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Washington%20Campos&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engenheiro%20de%20Dados%20%7C%20ETL%20%7C%20Cloud%20%7C%20Automação&descAlignY=58&descSize=18" width="100%"/>
+</p>
 
-<h1 align="center">Opa 👋</h1>
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Transformando+dados+em+decis%C3%B5es;Pipelines+confi%C3%A1veis%2C+escala+real;Goi%C3%A2nia+%2C+GO+-+Brasil" alt="Typing SVG" />
+</p>
 
----
-
-### 👨‍💻 Sobre Mim
-
-<p>
-Goiânia, Goiás - BR<br><br>
-- 🔭 Engenheiro de Dados<br>
-- 📚 Pós Graduação pela DSA Academy - Engenharia de Dados<br>
-- ⚡ APIs, Automação, Sciencia de Dados, Engenharia de Dados, ETL, Administração de Data Warehouse, Governança<br>
-- 🧠 C, C#, Power BI, Metabase, Python, Airflow, Pandas, Streamlit<br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/washington-s-campos-/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="28" />
+  </a>
+  <a href="https://www.instagram.com/washingtoncmps/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="28" />
+  </a>
 </p>
 
 ---
 
-### 🌐 Redes Sociais
+## 🚀 A Jornada
+
+> Tudo começou com a curiosidade de entender **por que os dados de um sistema não conversavam com o outro**.
+> Hoje, isso se traduz em pipelines de **ETL**, integrações via **API**, automações e arquiteturas de dados que sustentam decisões reais.
+
+```text
+2021 ──► Primeiros scripts de automação (Python)
+2022 ──► Imersão em bancos relacionais (Oracle, MySQL, Firebird, Sybase)
+2023 ──► ETL e Data Warehouse em produção
+2024 ──► Pós-Graduação em Engenharia de Dados (DSA Academy)
+2025 ──► Cloud (Azure/AWS), Airflow, Governança de Dados
+2026 ──► Você está aqui 👀
+```
+
+---
+
+## 🧩 O que eu faço
+
+| Frente | Detalhe |
+|---|---|
+| 🔭 **Engenharia de Dados** | ETL, Data Warehouse, Governança, Qualidade de Dados |
+| ⚙️ **Automação & APIs** | Integrações entre sistemas legados e modernos |
+| 📊 **Ciência de Dados** | Análise exploratória, dashboards (Power BI / Metabase / Streamlit) |
+| ☁️ **Cloud & Orquestração** | Azure, AWS, Apache Airflow, Docker |
+| 🎓 **Formação** | Pós-Graduação em Engenharia de Dados — DSA Academy |
+
+---
+
+## 🛠 Stack
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/washington-s-campos-/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="30" />
-  </a>
-  <a href="https://www.instagram.com/washingtoncmps/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="30" />
-  </a>
-  </a>
+
+**Linguagens**
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" title="Python" />
+<img width="14" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" title="JavaScript" />
+<img width="14" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="42" title="C#" />
+
+<br><br>
+
+**Cloud & DevOps**
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="42" title="Azure" />
+<img width="14" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="42" title="AWS" />
+<img width="14" />
+<img src="https://cdn.simpleicons.org/apacheairflow/017CEE" height="42" title="Apache Airflow" />
+<img width="14" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42" title="Docker" />
+
+<br><br>
+
+**Dados**
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="42" title="Oracle" />
+<img width="14" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" title="MySQL" />
+<img width="14" />
+<img src="https://img.icons8.com/color/48/sap.png" height="42" title="Sybase" />
+<img width="14" />
+<img src="https://www.firebirdsql.org/file/about/ds-firebird-logo-48.png" height="42" title="Firebird" />
+<img width="14" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" height="42" title="DBeaver" />
+
+<br><br>
+
+**Analytics & API**
+<br>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat-square" height="32" />
+<img width="6" />
+<img src="https://img.shields.io/badge/Metabase-509EE3?logo=metabase&logoColor=white&style=flat-square" height="32" />
+<img width="6" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat-square" height="32" />
+<img width="6" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="32" title="Postman" />
+
 </div>
 
 ---
 
-### 🛠 Tecnologias que Uso
+## 📊 Métricas
 
-<div align="left">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Washdevs&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Washdevs&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="170" />
+</div>
 
-  <!-- Linguagens -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
-
-  <!-- Cloud / DevOps -->
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" title="Azure" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" title="AWS" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" height="40" title="Apache Airflow" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" title="Docker" />
-
-  <!-- Bancos -->
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" title="Oracle" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL" />
-  <img width="12" />
-  <img src="https://img.icons8.com/color/48/sap.png" height="40" title="Sybase" />
-  <img width="12" />
-  <img src="https://www.firebirdsql.org/file/about/ds-firebird-logo-48.png" height="40" title="Firebird" />
-  <img width="12" />
-  <img src="https://scontent.fgyn11-1.fna.fbcdn.net/v/t39.30808-1/330814595_728304892347257_6831114232797115666_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=103&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=D8G48KBHjK0Q7kNvwF33ytj&_nc_oc=AdkyqifADcDkDGW3NtPUox1H2zWJDx4R0M42hYvRwz5uL5n5ldE6KN5bFU_9qij_R5jXXPyNDPxXPs1tBKjF3o9L&_nc_zt=24&_nc_ht=scontent.fgyn11-1.fna&_nc_gid=bpzJna9RnDPdO3aSxD4zEA&oh=00_AfctwEEGEXoRXuMYUl23uv91kTPnYHShelM_Ce6-U3OtjQ&oe=68F3688F" height="40" title="InterSystems IRIS" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" height="40" title="DBeaver" />
-
-  <!-- API / Testes -->
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" title="Postman" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Washdevs&theme=tokyonight&hide_border=true" height="170" />
 </div>
 
 ---
 
-### 📊 Actividade no GitHub
+## 🐍 Histórico de Commits
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Washdevs&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Washdevs&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" />
+  <img src="https://raw.githubusercontent.com/Washdevs/Washdevs/output/snake.svg" alt="Snake animation" width="100%"/>
 </div>
 
 ---
 
-### 🐍 Fluxo de Commit
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Washdevs/Washdevs/output/snake.svg" alt="Snake animation"/>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>
