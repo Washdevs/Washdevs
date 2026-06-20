@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/washington-s-campos-/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="28" />
   </a>
-  <a href="https://www.instagram.com/washingtoncmps/" target="_blank">
+  <a href="https://www.instagram.com/washingtoncmpos/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="28" />
   </a>
 </p>
@@ -26,10 +26,10 @@
 
 ```text
 2021 ──► Primeiros scripts de automação (Python)
-2022 ──► Imersão em bancos relacionais (Oracle, MySQL, Firebird, Sybase)
-2023 ──► ETL e Data Warehouse em produção
-2024 ──► Pós-Graduação em Engenharia de Dados (DSA Academy)
-2025 ──► Cloud (Azure/AWS), Airflow, Governança de Dados
+2023 ──► Imersão em POO (C, C#)
+2024 ──► Imersão em bancos relacionais (Oracle, MySQL, Firebird, Sybase)
+24/25 ──► ETL e Data Warehouse em produção, Cloud (Azure/AWS), Airflow, Governança de Dados
+2025 ──► Pós-Graduação em Engenharia de Dados (DSA Academy)
 2026 ──► Você está aqui 👀
 ```
 
@@ -37,13 +37,13 @@
 
 ## 🧩 O que eu faço
 
-| Frente | Detalhe |
-|---|---|
-| 🔭 **Engenharia de Dados** | ETL, Data Warehouse, Governança, Qualidade de Dados |
-| ⚙️ **Automação & APIs** | Integrações entre sistemas legados e modernos |
-| 📊 **Ciência de Dados** | Análise exploratória, dashboards (Power BI / Metabase / Streamlit) |
-| ☁️ **Cloud & Orquestração** | Azure, AWS, Apache Airflow, Docker |
-| 🎓 **Formação** | Pós-Graduação em Engenharia de Dados — DSA Academy |
+| Frente                      | Detalhe                                                            |
+| --------------------------- | ------------------------------------------------------------------ |
+| 🔭 **Engenharia de Dados**  | ETL, Data Warehouse, Governança, Qualidade de Dados                |
+| ⚙️ **Automação & APIs**     | Integrações entre sistemas legados e modernos                      |
+| 📊 **Ciência de Dados**     | Análise exploratória, dashboards (Power BI / Metabase / Streamlit) |
+| ☁️ **Cloud & Orquestração** | Azure, AWS, Apache Airflow, Docker                                 |
+| 🎓 **Formação**             | Pós-Graduação em Engenharia de Dados — DSA Academy                 |
 
 ---
 
@@ -117,7 +117,11 @@
 ## 🐍 Histórico de Commits
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Washdevs/Washdevs/output/snake.svg" alt="Snake animation" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Washdevs/Washdevs/output/snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Washdevs/Washdevs/output/snake-light.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Washdevs/Washdevs/output/snake.svg" width="100%" />
+  </picture>
 </div>
 
 ---
